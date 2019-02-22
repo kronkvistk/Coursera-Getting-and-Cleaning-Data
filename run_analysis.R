@@ -1,5 +1,3 @@
-setwd("C:/Users/omistaja/Desktop/Coursera/GetCleanData/Assignment")
-
 library(data.table)
 library(tidyverse)
 
