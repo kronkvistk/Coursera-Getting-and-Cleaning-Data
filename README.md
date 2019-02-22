@@ -1,4 +1,4 @@
-# Coursera-Getting-and-Cleaning-Data
+# Coursera: Getting and Cleaning Data Course Project
 
 This README file explains the analysis files for my Getting and Cleaning Data Course Project assignment:
 - UCI HAR Dataset.zip
